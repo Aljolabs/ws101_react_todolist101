@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101_react_todolist101/static/css/main.be4ac39c.css",
+    "main.js": "/ws101_react_todolist101/static/js/main.432f54ba.js",
+    "static/media/background.jpg": "/ws101_react_todolist101/static/media/background.53bb7c005a424c33efd4.jpg",
+    "static/media/mundo.png": "/ws101_react_todolist101/static/media/mundo.2fbcc0c09f011dba936b.png",
+    "static/media/isaapa.png": "/ws101_react_todolist101/static/media/isaapa.35f5b3ea0931969131d7.png",
+    "index.html": "/ws101_react_todolist101/index.html",
+    "main.be4ac39c.css.map": "/ws101_react_todolist101/static/css/main.be4ac39c.css.map",
+    "main.432f54ba.js.map": "/ws101_react_todolist101/static/js/main.432f54ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be4ac39c.css",
+    "static/js/main.432f54ba.js"
+  ]
+}
