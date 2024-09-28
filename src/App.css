@@ -1,0 +1,35 @@
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; 
+  padding: 10px; 
+}
+
+.app-logo {
+  height: 150px; 
+  margin-right: 10px; 
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+  .app-header {
+      flex-direction: column; 
+      align-items: center; 
+  }
+  
+  .app-logo {
+      height: 100px; 
+      margin-right: 0;
+      margin-bottom: 10px; 
+  }
+}
+
+@media (max-width: 480px) {
+  .app-header {
+      padding: 5px;
+  }
+
+  .app-logo {
+      height: 80px; 
+  }
+}
